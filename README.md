@@ -27,4 +27,4 @@ git clone https://github.com/caiocarneloz/pdtug.git
 ## Usage
 The **pdtug** function takes as argument a dataframe containing numerical data and an integer _k_ value which represents the number of nearest neighbours. As example, the image below shows the relationship between nodes with _k_ = 2:
 
-![alt text](https://cdn-images-1.medium.com/max/1600/1*CsmTArbMwQ5A1YDGRoBF9w.png)
+![alt text](https://i.imgur.com/fnHbRGy.gif)

@@ -5,7 +5,7 @@ Unweighted graphs from pandas numerical dataframes
 #### Dependencies
 You need Python 3.5 or later to use **pdtug**. You can find it at [python.org](https://www.python.org/).
 
-You aso need pandas and numpy packages, which is available from [PyPI](https://pypi.org). If you have pip, just run:
+You also need pandas and numpy packages, which is available from [PyPI](https://pypi.org). If you have pip, just run:
 ```
 pip install pandas
 pip install numpy

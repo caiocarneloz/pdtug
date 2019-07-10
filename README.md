@@ -1,5 +1,5 @@
 # pdtug
-Unweighted graphs from pandas numerical dataframe
+Unweighted graphs from pandas numerical dataframes
 
 ## Getting Started
 #### Dependencies

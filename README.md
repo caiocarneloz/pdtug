@@ -18,8 +18,8 @@ git clone https://github.com/caiocarneloz/pdtug.git
 
 ## Features
 - Get a unweighted graph from a pandas dataframe
-  - ~~Choose from multiple distance functions~~
-  - ~~Choose between k-nearest neighbours and distance threshold~~
+  - ~~Choose from multiple distance functions~~(soon)
+  - ~~Choose between k-nearest neighbours and distance threshold~~(soon)
 
 
 ## Usage
